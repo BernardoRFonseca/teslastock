@@ -1,6 +1,6 @@
 # Tesla Stocks Analysis
 ## Conduct Analysis on Tesla Stocks since IPO
-![rossmann_original](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Flarrylight%2F2020%2F07%2F27%2Fteslas-brand-believers%2F&psig=AOvVaw0_sX63aC4FRVFL95WeyewX&ust=1621279694751000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDwxtn3zvACFQAAAAAdAAAAABAR)
+![tesla_1024_1024_1024](https://user-images.githubusercontent.com/68538809/118410140-e2fbf200-b685-11eb-8c96-6600d7e8c8ea.jpg)
 
 # 1. Context.
 
